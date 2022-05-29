@@ -1,0 +1,43 @@
+@media (min-width: 320px) and (max-width: 480px) {
+
+    /* section-2 */
+    .section-2slider img {
+        height: 320px;
+    }
+
+    /* section-4 */
+    .card {
+        width: 160px !important;
+    }
+
+    .card img {
+        width: 155px !important;
+        height: 150px;
+    }
+
+    .card-body h5 {
+        font-size: 15px;
+    }
+
+    /* section-5 */
+    .catogury2 {
+        height: 350px;
+    }
+
+    /* section-7 */
+    .orderingbabo h5 {
+        font-size: 15px;
+        font-weight: bold;
+        color: black;
+    }
+
+    .orderingbabo h5 {
+        font-size: 15px;
+        font-weight: bold;
+        color: black;
+    }
+
+    .orderingbabo button {
+        font-size: 12px;
+    }
+}

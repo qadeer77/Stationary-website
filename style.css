@@ -1,0 +1,214 @@
+/* navbar */
+.navbar-button12 {
+    background-color: aliceblue !important;
+}
+
+html,
+body {
+    overflow-x: hidden;
+}
+
+.fa-book {
+    color: palevioletred;
+    font-size: 50px;
+}
+
+.fa-book:hover {
+    box-shadow: 10px 10px;
+}
+
+.bhookshop {
+    color: #ffffff;
+    font-size: 30px;
+}
+
+.bhook a {
+    color: #ffffff;
+}
+
+.bhook a:hover {
+    color: yellow;
+}
+
+.home12 {
+    margin-left: 30px;
+}
+
+.btn-danger:hover {
+    background-color: black;
+}
+
+/* section-3 */
+.section-3 {
+    background-color: gainsboro;
+}
+
+.prodect-sale {
+    color: brown;
+    padding-top: 20px;
+}
+
+.prodect-sale h1 {
+    font-family: 'Bree Serif', serif;
+}
+
+/* section-4 */
+.section-4 {
+    background-color: gainsboro;
+}
+
+.card {
+    width: 200px !important;
+    height: 320px !important;
+    margin-top: 10px;
+}
+
+.card img {
+    width: 190px;
+    object-fit: fill;
+    height: 200px;
+}
+
+.card a {
+    text-decoration: none;
+    font-size: 10px;
+    color: black;
+    position: relative;
+    top: -10px;
+}
+
+.card h6 {
+    color: brown;
+    position: relative;
+    top: -8px;
+}
+
+.card i {
+    color: brown;
+    font-size: 15px;
+    position: relative;
+    top: -10px;
+}
+
+.card i:hover {
+    color: yellow;
+}
+
+#dollarpen a {
+    position: relative;
+    top: -20px;
+}
+
+#h6 {
+    position: relative;
+    top: -20px;
+}
+
+.icon6 i {
+    position: relative;
+    top: -30px;
+}
+
+
+/* section-5 */
+.slider-2 {
+    background-color: gainsboro;
+}
+
+.catogury2 img {
+    height: 500px;
+    margin-top: 10px;
+}
+
+/* section-6 */
+.section-6 {
+    background-color: gainsboro;
+}
+
+.qadeer {
+    margin-top: 15px;
+}
+
+/* section-7 */
+.section-7 {
+    background-color: gainsboro;
+}
+
+.orderingbabo h5 {
+    color: brown;
+    margin-top: 15px;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+
+.orderingbabo a {
+    color: brown;
+    text-decoration: none;
+}
+
+/* section-8 */
+.section-8 {
+    background-color: gainsboro;
+}
+
+.find-us h3 {
+    margin-top: 100px;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+
+.find-us p {
+    font-family: 'Baloo Bhai 2', cursive;
+}
+
+.icon-findus i {
+    color: brown;
+}
+
+.quick-link h3 {
+    margin-top: 100px;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+
+.quick-link a {
+    text-decoration: none;
+    color: black;
+}
+
+.followus h3 {
+    margin-top: 100px;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+
+.followus p {
+    font-family: 'Baloo Bhai 2', cursive;
+}
+
+.followus p i {
+    color: brown;
+}
+
+#link-a {
+    text-decoration: none;
+}
+
+
+/* footer */
+.footer {
+    background-color: black;
+}
+
+.footerrr h5 {
+    font-family: 'Baloo Bhai 2', cursive;
+    color: #fff;
+    margin-top: 12px;
+}
+
+.facebook i {
+    color: white;
+    margin-top: 10px;
+    padding-left: 10px;
+    font-size: 25px;
+}
+
+.facebook i:hover {
+    color: yellow;
+}
